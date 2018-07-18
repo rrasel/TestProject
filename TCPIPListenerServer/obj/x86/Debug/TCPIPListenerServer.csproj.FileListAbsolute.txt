@@ -1,0 +1,9 @@
+C:\Coding\AsyncTCPIPListener\TCPIPListenerServer\bin\Debug\TCPIPListenerServer.exe.config
+C:\Coding\AsyncTCPIPListener\TCPIPListenerServer\bin\Debug\TCPIPListenerServer.exe
+C:\Coding\AsyncTCPIPListener\TCPIPListenerServer\bin\Debug\TCPIPListenerServer.pdb
+C:\Coding\AsyncTCPIPListener\TCPIPListenerServer\obj\x86\Debug\TCPIPListenerServer.TCPIPServer.resources
+C:\Coding\AsyncTCPIPListener\TCPIPListenerServer\obj\x86\Debug\TCPIPListenerServer.Properties.Resources.resources
+C:\Coding\AsyncTCPIPListener\TCPIPListenerServer\obj\x86\Debug\TCPIPListenerServer.csproj.GenerateResource.Cache
+C:\Coding\AsyncTCPIPListener\TCPIPListenerServer\obj\x86\Debug\TCPIPListenerServer.exe
+C:\Coding\AsyncTCPIPListener\TCPIPListenerServer\obj\x86\Debug\TCPIPListenerServer.pdb
+C:\Coding\AsyncTCPIPListener\TCPIPListenerServer\obj\x86\Debug\TCPIPListenerServer.csprojResolveAssemblyReference.cache
